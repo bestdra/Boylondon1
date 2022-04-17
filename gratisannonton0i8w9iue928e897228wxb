@@ -85,7 +85,7 @@ http://210.210.155.35:80/uq2663/h/h08/01.m3u8
 http://210.210.155.35:80/uq2663/h/h143/01.m3u8
 #EXTINF:0, GEM
 http://210.210.155.35:80/uq2663/h/h19/01.m3u8
-#EXTINF:0, TVN MOVIES BACKUP
+#EXTINF:0, TVN MOVIES 
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 #EXTINF:0, TVN 1
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
@@ -169,6 +169,42 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Crime Investigation
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-1 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-2 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-3 (1080p)
+http://183.207.249.35/PLTV/4/224/3221227295/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-4 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-5+ (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-6 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-7 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-8 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-9 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-10 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-11 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-12 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-13 (576p)
+http://stream4.jlntv.cn/cctv13/sd/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 15
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/79?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-17 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225907/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN;VN" tvg-logo="http://tduc.tk/logo/antv.png" group-title="Undefined",ANTV HD
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" group-title="News;Undefined",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0,MASTIII
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
 #EXTINF:0,MTV BIGGEST POP
@@ -254,233 +290,258 @@ http://210.210.155.35:80/dr9445/s/s24/01.m3u8
 #EXTINF:0, DW
 http://210.210.155.35:80/qwr9ew/s/s26/01.m3u8
 
-#EXTINF:100,[001] Surah Alfatihah (Pembukaan)
+#EXTINF:0 tvg-country="SA" tvg-logo="http://www.al-khalij.tv/wp-content/uploads/2015/03/logo-1.png" group-title="Undefined",Al Khalij
+http://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="Undefined",Al Mergab TV
+http://new-pro.tv:8080/Fernando/123321/30072?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="Undefined",Al Quran Al Kareem (Mecca),Quran
+http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="Undefined",Al Sahraa TV
+http://new-pro.tv:8080/Fernando/123321/30075?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="Undefined",Al Wesam TV
+http://new-pro.tv:8080/Fernando/123321/297718?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="Undefined",Iqraa TV
+http://red.ipfox.org:8080/amer/amer1234/33204?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="Undefined",ROTANA CINEMA KSA HD
+http://red.ipfox.org:8080/amer/amer1234/33221?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="Undefined",ROTANA CLASSIC HD
+http://red.ipfox.org:8080/amer/amer1234/33220?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="Undefined",SBC Saudia HD
+http://new-pro.tv:8080/Fernando/123321/69835?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="Undefined",Saudi Quran
+http://red.ipfox.org:8080/amer/amer1234/33206?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="Undefined",Saudi Sunnah
+http://red.ipfox.org:8080/amer/amer1234/33207?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="Undefined",Saudi TV HD
+http://new-pro.tv:8080/Fernando/123321/69838?checkedby:iptvcat.com
+
+#EXTINF:100,[001] Surah Alfatihah 
 https://archive.org/download/MurotalMR/001.mp3
-#EXTINF:0,[002] Surah Al-Baqarah (Lembu Betina)
+#EXTINF:0,[002] Surah Al-Baqarah 
 https://archive.org/download/MurotalMR/002.mp3
-#EXTINF:0,[003] Surah Ali 'Imran (Keluarga Imran)
+#EXTINF:0,[003] Surah Ali 'Imran 
 https://archive.org/download/MurotalMR/003.mp3
-#EXTINF:0,[004] Surah An-Nisaa' (Wanita)
+#EXTINF:0,[004] Surah An-Nisaa' 
 https://archive.org/download/MurotalMR/004.mp3
-#EXTINF:0,[005] Surah Al-Maa'idah (Hidangan)
+#EXTINF:0,[005] Surah Al-Maa'idah 
 https://archive.org/download/MurotalMR/005.mp3
-#EXTINF:0,[006] Surah Al-An'aam (Binatang Ternakan)
+#EXTINF:0,[006] Surah Al-An'aam 
 https://archive.org/download/MurotalMR/006.mp3
-#EXTINF:0,[007] Surah Al-A'raaf (Tempat Tertinggi)
+#EXTINF:0,[007] Surah Al-A'raaf 
 https://archive.org/download/MurotalMR/007.mp3
-#EXTINF:0,[008] Surah Al-Anfaal (Rampasan Perang)
+#EXTINF:0,[008] Surah Al-Anfaal 
 https://archive.org/download/MurotalMR/008.mp3
-#EXTINF:0,[009] Surah At-Taubah (Pengampunan)
+#EXTINF:0,[009] Surah At-Taubah 
 https://archive.org/download/MurotalMR/009.mp3
-#EXTINF:0,[010] Surah Yunus (Nabi Yunus a.s.)
+#EXTINF:0,[010] Surah Yunus 
 https://archive.org/download/MurotalMR/010.mp3
-#EXTINF:0,[011] Surah Hud (Nabi Hud a.s.)
+#EXTINF:0,[011] Surah Hud 
 https://archive.org/download/MurotalMR/011.mp3
-#EXTINF:0,[012] Surah Yusuf (Nabi Yusuf a.s.)
+#EXTINF:0,[012] Surah Yusuf 
 https://archive.org/download/MurotalMR/012.mp3
-#EXTINF:0,[013] Surah Ar-Ra'd (Guruh)
+#EXTINF:0,[013] Surah Ar-Ra'd 
 https://archive.org/download/MurotalMR/013.mp3
-#EXTINF:0,[014] Surah Ibrahim (Nabi Ibrahim a.s.)
+#EXTINF:0,[014] Surah Ibrahim 
 https://archive.org/download/MurotalMR/014.mp3
-#EXTINF:0,[015] Surah Al-Hijr (Kawasan Berbatu)
+#EXTINF:0,[015] Surah Al-Hijr 
 https://archive.org/download/MurotalMR/015.mp3
-#EXTINF:0,[016] Surah An-Nahl (Lebah)
+#EXTINF:0,[016] Surah An-Nahl 
 https://archive.org/download/MurotalMR/016.mp3
-#EXTINF:0,[017] Surah Al-Israa' (Perjalanan Malam)
+#EXTINF:0,[017] Surah Al-Israa' 
 https://archive.org/download/MurotalMR/017.mp3
-#EXTINF:0,[018] Surah Al-Kahfi (Gua)
+#EXTINF:0,[018] Surah Al-Kahfi 
 https://archive.org/download/MurotalMR/018.mp3
-#EXTINF:0,[019] Surah Maryam (Siti Maryam)
+#EXTINF:0,[019] Surah Maryam 
 https://archive.org/download/MurotalMR/019.mp3
 #EXTINF:0,[020] Surah Taahaa
 https://archive.org/download/MurotalMR/020.mp3
-#EXTINF:0,[021] Surah Al-Anbiyaa' (Para Nabi)
+#EXTINF:0,[021] Surah Al-Anbiyaa' 
 https://archive.org/download/MurotalMR/021.mp3
-#EXTINF:0,[022] Surah Al-Hajj (Haji)
+#EXTINF:0,[022] Surah Al-Hajj 
 https://archive.org/download/MurotalMR/022.mp3
-#EXTINF:0,[023] Surah Al-Mu'minun (Golongan yang Beriman)
+#EXTINF:0,[023] Surah Al-Mu'minun 
 https://archive.org/download/MurotalMR/023.mp3
-#EXTINF:0,[024] Surah An-Nuur (Cahaya)
+#EXTINF:0,[024] Surah An-Nuur 
 https://archive.org/download/MurotalMR/024.mp3
-#EXTINF:0,[025] Surah Al-Furqaan (Pembeza Kebenaran dan Kebatilan)
+#EXTINF:0,[025] Surah Al-Furqaan 
 https://archive.org/download/MurotalMR/025.mp3
-#EXTINF:0,[026] Surah Asy-Syu'araa (Para Penyair)
+#EXTINF:0,[026] Surah Asy-Syu'araa 
 https://archive.org/download/MurotalMR/026.mp3
-#EXTINF:0,[027] Surah An-Naml (Semut)
+#EXTINF:0,[027] Surah An-Naml 
 https://archive.org/download/MurotalMR/027.mp3
-#EXTINF:0,[028] Surah Al-Qasas (Cerita-cerita)
+#EXTINF:0,[028] Surah Al-Qasas 
 https://archive.org/download/MurotalMR/028.mp3
-#EXTINF:0,[029] Surah Al-'Ankabut (Labah-labah)
+#EXTINF:0,[029] Surah Al-'Ankabut 
 https://archive.org/download/MurotalMR/029.mp3
-#EXTINF:0,[030] Surah Ar-Rum (Bangsa Rom)
+#EXTINF:0,[030] Surah Ar-Rum 
 https://archive.org/download/MurotalMR/030.mp3
-#EXTINF:0,[031] Surah Luqman (Luqman)
+#EXTINF:0,[031] Surah Luqman 
 https://archive.org/download/MurotalMR/031.mp3
-#EXTINF:0,[032] Surah As-Sajdah (Sujud)
+#EXTINF:0,[032] Surah As-Sajdah 
 https://archive.org/download/MurotalMR/032.mp3
-#EXTINF:0,[033] Surah Al-Ahzab (Golongan yang Bersekutu)
+#EXTINF:0,[033] Surah Al-Ahzab 
 https://archive.org/download/MurotalMR/033.mp3
-#EXTINF:0,[034] Surah Saba' (Kaum Saba')
+#EXTINF:0,[034] Surah Saba' 
 https://archive.org/download/MurotalMR/034.mp3
-#EXTINF:0,[035] Surah Faatir (Pencipta)
+#EXTINF:0,[035] Surah Faatir 
 https://archive.org/download/MurotalMR/035.mp3
 #EXTINF:0,[036] Surah Yaasin
 https://archive.org/download/MurotalMR/036.mp3
-#EXTINF:0,[037] Surah As-Saaffat (Yang Teratur Berbaris)
+#EXTINF:0,[037] Surah As-Saaffat 
 https://archive.org/download/MurotalMR/037.mp3
 #EXTINF:0,[038] Surah Saad
 https://archive.org/download/MurotalMR/038.mp3
-#EXTINF:0,[039] Surah Az-Zumar (Rombongan)
+#EXTINF:0,[039] Surah Az-Zumar 
 https://archive.org/download/MurotalMR/039.mp3
-#EXTINF:0,[040] Surah Al-Ghafir / Al-Mu'min (Orang yang Beriman)
+#EXTINF:0,[040] Surah Al-Ghafir / Al-Mu'min 
 https://archive.org/download/MurotalMR/040.mp3
-#EXTINF:0,[041] Surah Fussilat (Dijelaskan)
+#EXTINF:0,[041] Surah Fussilat 
 https://archive.org/download/MurotalMR/041.mp3
-#EXTINF:0,[042] Surah Asy-Syuraa (Permesyuaratan)
+#EXTINF:0,[042] Surah Asy-Syuraa 
 https://archive.org/download/MurotalMR/042.mp3
-#EXTINF:0,[043] Surah Az-Zukhruf (Perhiasan Emas)
+#EXTINF:0,[043] Surah Az-Zukhruf 
 https://archive.org/download/MurotalMR/043.mp3
-#EXTINF:0,[044] Surah Ad-Dukhaan (Kabut / Asap)
+#EXTINF:0,[044] Surah Ad-Dukhaan 
 https://archive.org/download/MurotalMR/044.mp3
-#EXTINF:0,[045] Surah Al-Jatsiyah (Yang Berlutut)
+#EXTINF:0,[045] Surah Al-Jatsiyah 
 https://archive.org/download/MurotalMR/045.mp3
-#EXTINF:0,[046] Surah Al-Ahqaaf (Bukit-bukit Pasir)
+#EXTINF:0,[046] Surah Al-Ahqaaf 
 https://archive.org/download/MurotalMR/046.mp3
-#EXTINF:0,[047] Surah Muhammad (Nabi Muhammad SAW)
+#EXTINF:0,[047] Surah Muhammad 
 https://archive.org/download/MurotalMR/047.mp3
-#EXTINF:0,[048] Surah Al-Fath (Kemenangan)
+#EXTINF:0,[048] Surah Al-Fath 
 https://archive.org/download/MurotalMR/048.mp3
-#EXTINF:0,[049] Surah Al-Hujurat (Bilik-bilik)
+#EXTINF:0,[049] Surah Al-Hujurat 
 https://archive.org/download/MurotalMR/049.mp3
 #EXTINF:0,[050] Surah Qaaf
 https://archive.org/download/MurotalMR/050.mp3
-#EXTINF:0,[051] Surah Adz-Dzariyaat (Angin yang Menerbangkan)
+#EXTINF:0,[051] Surah Adz-Dzariyaat 
 https://archive.org/download/MurotalMR/051.mp3
-#EXTINF:0,[052] Surah At-Tur (Bukit)
+#EXTINF:0,[052] Surah At-Tur 
 https://archive.org/download/MurotalMR/052.mp3
-#EXTINF:0,[053] Surah An-Najm (Bintang)
+#EXTINF:0,[053] Surah An-Najm 
 https://archive.org/download/MurotalMR/053.mp3
-#EXTINF:0,[054] Surah Al-Qamar (Bulan)
+#EXTINF:0,[054] Surah Al-Qamar 
 https://archive.org/download/MurotalMR/054.mp3
-#EXTINF:0,[055] Surah Ar-Rahman (Yang Maha Pemurah)
+#EXTINF:0,[055] Surah Ar-Rahman 
 https://archive.org/download/MurotalMR/055.mp3
-#EXTINF:0,[056] Surah Al-Waqi'ah (Peristiwa yang Tidak Dapat Dielakkan)
+#EXTINF:0,[056] Surah Al-Waqi'ah 
 https://archive.org/download/MurotalMR/056.mp3
-#EXTINF:0,[057] Surah Al-Hadid (Besi)
+#EXTINF:0,[057] Surah Al-Hadid 
 https://archive.org/download/MurotalMR/057.mp3
-#EXTINF:0,[058] Surah Al-Mujadilah (Perempuan yang Merayu)
+#EXTINF:0,[058] Surah Al-Mujadilah 
 https://archive.org/download/MurotalMR/058.mp3
-#EXTINF:0,[059] Surah Al-Hasyr (Pengusiran)
+#EXTINF:0,[059] Surah Al-Hasyr 
 https://archive.org/download/MurotalMR/059.mp3
-#EXTINF:0,[060] Surah Al-Mumtahanah (Perempuan yang Diuji)
+#EXTINF:0,[060] Surah Al-Mumtahanah 
 https://archive.org/download/MurotalMR/060.mp3
-#EXTINF:0,[061] Surah As-Saf (Barisan)
+#EXTINF:0,[061] Surah As-Saf 
 https://archive.org/download/MurotalMR/061.mp3
-#EXTINF:0,[062] Surah Al-Jumu'ah (Hari Jumaat)
+#EXTINF:0,[062] Surah Al-Jumu'ah 
 https://archive.org/download/MurotalMR/062.mp3
-#EXTINF:0,[063] Surah Al-Munafiquun (Golongan Munafik)
+#EXTINF:0,[063] Surah Al-Munafiquun 
 https://archive.org/download/MurotalMR/063.mp3
-#EXTINF:0,[064] Surah At-Taghabun (Dinampakkan Kesalahan)
+#EXTINF:0,[064] Surah At-Taghabun 
 https://archive.org/download/MurotalMR/064.mp3
-#EXTINF:0,[065] Surah At-Talaq (Cerai / Talak)
+#EXTINF:0,[065] Surah At-Talaq 
 https://archive.org/download/MurotalMR/065.mp3
-#EXTINF:0,[066] Surah At-Tahrim (Mengharamkan)
+#EXTINF:0,[066] Surah At-Tahrim 
 https://archive.org/download/MurotalMR/066.mp3
-#EXTINF:0,[067] Surah Al-Mulk (Kerajaan)
+#EXTINF:0,[067] Surah Al-Mulk 
 https://archive.org/download/MurotalMR/067.mp3
-#EXTINF:0,[068] Surah Al-Qalam (Pena / Kalam)
+#EXTINF:0,[068] Surah Al-Qalam 
 https://archive.org/download/MurotalMR/068.mp3
-#EXTINF:0,[069] Surah Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)
+#EXTINF:0,[069] Surah Al-Haaqqah 
 https://archive.org/download/MurotalMR/069.mp3
-#EXTINF:0,[070] Surah Al-Ma'arij (Tempat-tempat Naik)
+#EXTINF:0,[070] Surah Al-Ma'arij 
 https://archive.org/download/MurotalMR/070.mp3
-#EXTINF:0,[071] Surah Nuh (Nabi Nuh a.s.)
+#EXTINF:0,[071] Surah Nuh 
 https://archive.org/download/MurotalMR/071.mp3
-#EXTINF:0,[072] Surah A-Jin (Jin)
+#EXTINF:0,[072] Surah A-Jin 
 https://archive.org/download/MurotalMR/072.mp3
-#EXTINF:0,[073] Surah Al-Muzammil (Yang Berselimut)
+#EXTINF:0,[073] Surah Al-Muzammil 
 https://archive.org/download/MurotalMR/073.mp3
-#EXTINF:0,[074] Surah Al-Muddathir (Yang Berselubung)
+#EXTINF:0,[074] Surah Al-Muddathir 
 https://archive.org/download/MurotalMR/074.mp3
-#EXTINF:0,[075] Surah Al-Qiyaamah (Hari Kebangkitan / Kiamat)
+#EXTINF:0,[075] Surah Al-Qiyaamah 
 https://archive.org/download/MurotalMR/075.mp3
-#EXTINF:0,[076] Surah Al-Insaan (Manusia)
+#EXTINF:0,[076] Surah Al-Insaan 
 https://archive.org/download/MurotalMR/076.mp3
-#EXTINF:0,[077] Surah Al-Mursalat (Malaikat Yang Diutus)
+#EXTINF:0,[077] Surah Al-Mursalat 
 https://archive.org/download/MurotalMR/077.mp3
-#EXTINF:0,[078] Surah An-Naba' (Berita Besar)
+#EXTINF:0,[078] Surah An-Naba' 
 https://archive.org/download/MurotalMR/078.mp3
-#EXTINF:0,[079] Surah An-Naazi'aat (Malaikat Yang Mencabut)
+#EXTINF:0,[079] Surah An-Naazi'aat 
 https://archive.org/download/MurotalMR/079.mp3
-#EXTINF:0,[080] Surah 'Abasa (Dia Bermasam Muka)
+#EXTINF:0,[080] Surah 'Abasa 
 https://archive.org/download/MurotalMR/080.mp3
-#EXTINF:0,[081] Surah At-Takwiir (Menggulung)
+#EXTINF:0,[081] Surah At-Takwiir 
 https://archive.org/download/MurotalMR/081.mp3
-#EXTINF:0,[082] Surah Al-Infitar (Terpecah & Terbelah)
+#EXTINF:0,[082] Surah Al-Infitar 
 https://archive.org/download/MurotalMR/082.mp3
-#EXTINF:0,[083] Surah Al-Mutaffifiin (Golongan yang Curang)
+#EXTINF:0,[083] Surah Al-Mutaffifiin 
 https://archive.org/download/MurotalMR/083.mp3
-#EXTINF:0,[084] Surah Al-Insyiqaaq (Terbelah)
+#EXTINF:0,[084] Surah Al-Insyiqaaq 
 https://archive.org/download/MurotalMR/084.mp3
-#EXTINF:0,[085] Surah Al-Buruj (Gugusan Bintang)
+#EXTINF:0,[085] Surah Al-Buruj 
 https://archive.org/download/MurotalMR/085.mp3
-#EXTINF:0,[086] Surah At-Taariq (Pengunjung Malam)
+#EXTINF:0,[086] Surah At-Taariq 
 https://archive.org/download/MurotalMR/086.mp3
-#EXTINF:0,[087] Surah Al-A'laa (Yang Tertinggi)
+#EXTINF:0,[087] Surah Al-A'laa 
 https://archive.org/download/MurotalMR/087.mp3
-#EXTINF:0,[088] Surah Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)
+#EXTINF:0,[088] Surah Al-Ghaasyiah 
 https://archive.org/download/MurotalMR/088.mp3
-#EXTINF:0,[089] Surah Al-Fajr (Fajar / Sinar Mentari)
+#EXTINF:0,[089] Surah Al-Fajr 
 https://archive.org/download/MurotalMR/089.mp3
-#EXTINF:0,[090] Surah Al-Balad (Negeri)
+#EXTINF:0,[090] Surah Al-Balad 
 https://archive.org/download/MurotalMR/090.mp3
-#EXTINF:0,[091] Surah Asy-Syams (Matahari)
+#EXTINF:0,[091] Surah Asy-Syams 
 https://archive.org/download/MurotalMR/091.mp3
-#EXTINF:0,[092] Surah Al-Lail (Malam)
+#EXTINF:0,[092] Surah Al-Lail 
 https://archive.org/download/MurotalMR/092.mp3
-#EXTINF:0,[093] Surah Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)
+#EXTINF:0,[093] Surah Adh-Dhuha 
 https://archive.org/download/MurotalMR/093.mp3
-#EXTINF:0,[094] Surah Al-Insyirah/An-Nasyrah (Melapangkan)
+#EXTINF:0,[094] Surah Al-Insyirah/An-Nasyrah 
 https://archive.org/download/MurotalMR/094.mp3
-#EXTINF:0,[095] Surah At-Tin (Buah Tin / Buah Ara)
+#EXTINF:0,[095] Surah At-Tin 
 https://archive.org/download/MurotalMR/095.mp3
-#EXTINF:0,[096] Surah Al-'Alaq (Segumpal Darah)
+#EXTINF:0,[096] Surah Al-'Alaq 
 https://archive.org/download/MurotalMR/096.mp3
-#EXTINF:0,[097] Surah Al-Qadr (Kemuliaan)
+#EXTINF:0,[097] Surah Al-Qadr 
 https://archive.org/download/MurotalMR/097.mp3
-#EXTINF:0,[098] Surah Al-Baiyinah (Bukti yang Nyata)
+#EXTINF:0,[098] Surah Al-Baiyinah 
 https://archive.org/download/MurotalMR/098.mp3
-#EXTINF:0,[099] Surah Al-Zalzalah (Kegoncangan)
+#EXTINF:0,[099] Surah Al-Zalzalah 
 https://archive.org/download/MurotalMR/099.mp3
-#EXTINF:0,[100] Surah Al-'Aadiyaat (Yang Berlari Kencang)
+#EXTINF:0,[100] Surah Al-'Aadiyaat 
 https://archive.org/download/MurotalMR/100.mp3
-#EXTINF:0,[101] Surah Al-Qari'ah (Hari Yang Hingar Bingar/kiamat)
+#EXTINF:0,[101] Surah Al-Qari'ah 
 https://archive.org/download/MurotalMR/101.mp3
-#EXTINF:0,[102] Surah At-Takathur (Bermegah-Megah)
+#EXTINF:0,[102] Surah At-Takathur 
 https://archive.org/download/MurotalMR/102.mp3
-#EXTINF:0,[103] Surah Al-'Asr (Masa)
+#EXTINF:0,[103] Surah Al-'Asr 
 https://archive.org/download/MurotalMR/103.mp3
-#EXTINF:0,[104] Surah Al-Humazah (Pengumpat)
+#EXTINF:0,[104] Surah Al-Humazah 
 https://archive.org/download/MurotalMR/104.mp3
-#EXTINF:0,[105] Surah Al-Fiil (Gajah)
+#EXTINF:0,[105] Surah Al-Fiil 
 https://archive.org/download/MurotalMR/105.mp3
-#EXTINF:0,[106] Surah Quraisy (Kaum Quraisy)
+#EXTINF:0,[106] Surah Quraisy 
 https://archive.org/download/MurotalMR/106.mp3
-#EXTINF:0,[107] Surah Al-Ma'un (Barangan Berguna)
+#EXTINF:0,[107] Surah Al-Ma'un 
 https://archive.org/download/MurotalMR/107.mp3
-#EXTINF:0,[108] Surah Al-Kauthar (Sungai Di Syurga)
+#EXTINF:0,[108] Surah Al-Kauthar 
 https://archive.org/download/MurotalMR/108.mp3
-#EXTINF:0,[109] Surah Al-Kafirun (Golongan Kafir)
+#EXTINF:0,[109] Surah Al-Kafirun 
 https://archive.org/download/MurotalMR/109.mp3
-#EXTINF:0,[110] Surah An-Nasr (Pertolongan)
+#EXTINF:0,[110] Surah An-Nasr 
 https://archive.org/download/MurotalMR/110.mp3
-#EXTINF:0,[111] Surah Al-Masad / Al-Lahab (Nyalaan Api)
+#EXTINF:0,[111] Surah Al-Masad / Al-Lahab 
 https://archive.org/download/MurotalMR/111.mp3
-#EXTINF:0,[112] Surah Al-Ikhlas (Tulus Ikhlas / Memurnikan Keesaan Allah)
+#EXTINF:0,[112] Surah Al-Ikhlas 
 https://archive.org/download/MurotalMR/112.mp3
-#EXTINF:0,[113] Surah Al-Falaq (Waktu Subuh / Dinihari)
+#EXTINF:0,[113] Surah Al-Falaq 
 https://archive.org/download/MurotalMR/113.mp3
-#EXTINF:0,[114] Surah An-Naas (Manusia)
+#EXTINF:0,[114] Surah An-Naas 
 https://archive.org/download/MurotalMR/114.mp3
 #EXTINF:0, Juz 1
 https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/01.mp3
